@@ -8,8 +8,7 @@ function getQuote() {
 
 };
 
-$(function() {  
-  
+$(function() {   
   getQuote(); 
   
   $('#button').on('click', function() {
@@ -18,6 +17,5 @@ $(function() {
   
   $('#tweet').on('click', function(){
     window.open('https://twitter.com/intent/tweet?text=');
-  });
-  
+  });  
 });
