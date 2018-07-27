@@ -1,0 +1,44 @@
+body {
+  background: url('http://goldwallpapers.com/uploads/posts/sophisticated-backgrounds/sophisticated_backgrounds_001.jpg');
+
+}
+
+#quote-box {
+  width: 600px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+#header {
+  font-family: 'Courgette', cursive;
+}
+
+#description {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 19px;
+}
+
+#button {
+  font-family: 'Courgette', cursive;
+  margin: 20px;
+}
+
+#quote-display {
+  font-family: 'Special Elite', cursive;
+  border: 1px solid #BDBDBD;
+  border-radius: 15px;
+  box-shadow: -10px 10px 5px #6E6E6E;
+  padding: 20px 50px;
+  height: auto;
+  background: #F7F2E0;
+}
+
+.quote {
+  font-size: 25px;
+}
+
+.author {
+  font-size: 15px;
+  font-style: italic;
+}
+
